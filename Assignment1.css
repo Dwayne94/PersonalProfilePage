@@ -1,0 +1,90 @@
+body
+{
+    background-image: url(../Assignment1_200568219/backgroundimage.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+header h1
+{
+    color: aliceblue;
+    text-align: center;
+    text-shadow: 10%;
+    font-size: xx-large;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: bolder;
+}
+
+main
+{
+    display: flex; 
+}
+
+section.section1
+{
+    margin-left: 20px;
+    margin-bottom: 10px;
+    border-style: solid;
+    border-color: aliceblue;
+    padding: 20px 20px;
+}
+
+section.section2
+{
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-bottom: 10px;
+    border-style: solid;
+    border-color: aliceblue;
+    padding: 20px 20px;
+}
+
+h2
+{
+    color: aliceblue;
+    text-align: center;
+    font-size: x-large;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: bold;
+}
+
+p
+{
+    color: aliceblue;
+    text-align: left;
+    font-size: x-large;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+p.skills
+{
+    text-align: center;
+}
+
+#photo1
+{
+    height: 500px; 
+    width: 500px;
+    align-items: center;
+}
+
+figcaption
+{
+    color: aliceblue;
+    text-align: center;
+}
+
+footer
+{
+    color: aliceblue;
+    text-align: center;
+    font-weight: bold;
+    font-size: larger;
+    font-style: italic;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+a
+{
+    color: yellow;
+}
